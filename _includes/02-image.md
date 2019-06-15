@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![IconeGitHub](https://desktop.github.com/images/github-desktop-icon.png)
